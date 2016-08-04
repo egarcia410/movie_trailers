@@ -7,13 +7,18 @@ Displays the top 6 movies of all time! The movies are showcased with their poste
 ```
 Open Terminal
 	$ git clone https://github.com/egarcia410/movie_trailers.git
+Navigate to Project Folder
+	$ cd movies
+Run Program
+	$ python entertainment.py
+Enjoy
 ```
 
 ## License
 
 MIT License
 
-Copyright (c) [2016] [Emmanuel Garcia]
+Copyright (c) 2016 Emmanuel Garcia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
