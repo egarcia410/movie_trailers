@@ -8,7 +8,7 @@ Displays the top 6 movies of all time! The movies are showcased with their poste
 Open Terminal
 	$ git clone https://github.com/egarcia410/movie_trailers.git
 Navigate to Project Folder
-	$ cd movies
+	$ cd path/to/project
 Run Program
 	$ python entertainment.py
 Enjoy
